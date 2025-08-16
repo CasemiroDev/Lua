@@ -89,3 +89,13 @@ repeat
 until( condition )
 ]]
 
+-- Controle de Loop:
+-- break -- Quebra qualquer loop e continua o código a partir do loop
+
+-- Loop Infinito -- Quando a condição nunca se torna falsa. Exemplo:
+--[[
+while(true)
+do
+    print("Isso vai rodar para sempre")
+end
+]]
