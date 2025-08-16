@@ -6,3 +6,4 @@ Threads -- Usado na programação assíncrona em Lua, onde cada thread roda na m
 co-rotinas -- Usado para pausar e retomar uma execução de uma função, só um pedaço do código roda por vez, você controla quando retomar
 matriz associativa -- Ao invés de ter índice numérico padrão possuem chaves onde os valores da matriz podem ser acessados em outras partes do código
 iterar -- Percorrer todos os elementos de uma coleção, um por um
+formal parameters - variáveis que aceitam os valores de argumentos de uma função
