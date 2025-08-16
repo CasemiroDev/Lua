@@ -1,0 +1,4 @@
+Escopo -- Local onde a variável existe e pode ser usada;
+Armazenamento Estático -- Espaço de memória em tempo de compilação;
+Armazenamento Dinâmico -- Espaço de memória em tempo de execução;
+Unário -- Atua sobre um único operando;
