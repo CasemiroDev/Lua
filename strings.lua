@@ -82,4 +82,3 @@ Float = [[8.1432]]
 
 -- Formatação Flutuantes
 print(string.format("%.1f",Float))
-
