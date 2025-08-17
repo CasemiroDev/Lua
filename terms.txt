@@ -9,3 +9,4 @@ Iterar -- Percorrer todos os elementos de uma coleção, um por um
 Formal parameters - variáveis que aceitam os valores de argumentos de uma função
 Form Feed - Avançar o papel até a próxima página
 Carriage return - volta um espaço e sobrescreve
+Closure - função que lembra as variáveis locais do seu criador
