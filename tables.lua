@@ -71,3 +71,12 @@ do
     print(frutas[i])
 end
 
+local test = {1,2,"a"}
+
+table.remove(test,1)
+
+for i=1,3
+do
+    print(table[i])
+end
+
