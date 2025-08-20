@@ -80,3 +80,8 @@ do
     print(table[i])
 end
 
+for i=1,4
+do
+    print(table[i])
+end
+
